@@ -12,13 +12,9 @@ Welcome to WebDevCraftingHub repository! This repository contains a collection o
 
 ## Materials
 
-| Title                                | Description                                    |
-|--------------------------------------|------------------------------------------------|
-| [HTML Basics](materials/html-basics) | Introduction to HTML for beginners.           |
-| [CSS Fundamentals](materials/css-fundamentals) | Learning the fundamentals of CSS.     |
-| [JavaScript Essentials](materials/javascript-essentials) | Essential JavaScript concepts.    |
-| [Web Design Principles](materials/web-design-principles) | Basics of web design principles.  |
-| [Responsive Web Design](materials/responsive-web-design) | Creating responsive websites. |
+| Title                                | Description                                    | Link                                           |
+|--------------------------------------|------------------------------------------------|------------------------------------------------|
+|The-Art-of-Computer-Programming-Books| Books Series | https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books|
 
 ## Projects
 
